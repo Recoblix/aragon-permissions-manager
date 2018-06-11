@@ -1,0 +1,8 @@
+{
+  "name": "Permission Manager",
+  "description": "An app to control individual permission functions seperately",
+  "icons": [{
+    "src": "images/icon.png",
+    "sizes": "22x22"
+  }]
+}

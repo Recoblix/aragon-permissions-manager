@@ -1,0 +1,22 @@
+{
+  "appName": "permission-manager.aragonpm.eth",
+  "version": "2.0.0",
+  "roles": [
+    {
+      "name": "Grant permissions",
+      "id": "GRANT_ROLE",
+      "params": []
+    },
+    {
+      "name": "Remove permissions",
+      "id": "REMOVE_ROLE",
+      "params": []
+    },
+    {
+      "name": "Set new manager",
+      "id": "SET_MANAGER_ROLE",
+      "params": []
+    }
+  ],
+  "path": "contracts/PermissionManager.sol"
+}
