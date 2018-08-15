@@ -1,6 +1,6 @@
 {
-  "appName": "permission-manager.aragonpm.eth",
-  "version": "2.0.0",
+  "appName": "recoblix-permission-manager.aragonpm.eth",
+  "version": "1.0.0",
   "roles": [
     {
       "name": "Grant permissions",
